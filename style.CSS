@@ -1,0 +1,25 @@
+#hcj {
+  text-align: center;
+  background-image: linear-gradient(to right,green,yellow);
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+.lymph {
+  font-family: "MonteCarlo", cursive;
+}
+#vi {
+  font-family: "Montez", cursive;
+}
+li:hover{ 
+  background-color: cyan;
+}
+li {
+  display: inline;
+  padding: 8px;
+  
+}
+  ;
